@@ -30,4 +30,3 @@ Het spel moet aan de volgende technische eisen voldoen:
 * Door gebruik te maken van html formulieren wordt de gebruiker om gegevens gevraagd.
 * Door gebruik te maken van php worden de post gegevens uitgelezen na verzenden van de html formulieren.
 * Door gebruik te maken van php worden de uitgelezen formulier gegevens in een grappige tekst geplaatst.
-
